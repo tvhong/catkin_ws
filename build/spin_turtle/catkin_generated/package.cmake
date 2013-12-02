@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "spin_turtle")
+set(spin_turtle_MAINTAINER "ray <ray@todo.todo>")
+set(spin_turtle_DEPRECATED "")
+set(spin_turtle_VERSION "0.0.0")
+set(spin_turtle_BUILD_DEPENDS "std_msgs" "roscpp" "geometry_msgs")
+set(spin_turtle_RUN_DEPENDS "std_msgs" "roscpp" "geometry_msgs")
+set(spin_turtle_BUILDTOOL_DEPENDS "catkin")

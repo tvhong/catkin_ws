@@ -1,0 +1,8 @@
+prefix=/home/ray/catkin_ws/install
+
+Name: spin_turtle
+Description: Description of spin_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ray/catkin_ws/install/lib 
+Requires: roscpp std_msgs geometry_msgs

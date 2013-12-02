@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 0
+rosdistro: 'hydro
+
+  '
+roslaunch:
+  uris: {host_vy_530u3c_530u4c__41816: 'http://vy-530U3C-530U4C:41816/'}
+rosversion: '1.9.50
+
+  '
+run_id: fc149e80-561c-11e3-b9e5-c485087b5c28
